@@ -22,4 +22,4 @@ This is a Python-based terminal application that acts as a smart travel assistan
 - Python
 
 ## Author
-Your Name
+Taniya 
